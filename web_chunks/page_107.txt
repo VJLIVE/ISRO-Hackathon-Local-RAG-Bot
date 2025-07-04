@@ -1,9 +1,3 @@
 
-Home
-»
-Missions
-»
-SCATSAT-1
-» Introduction
 SCATSAT-1 Introduction
 Indian Space Research Organisation launched SCATSAT-1 for ocean and weather related studies and seven co-passenger satellites into polar Sun Synchronous Orbit (SSO) on September 26, 2016. The Polar Satellite Launch Vehicle, in its 37th flight, (PSLV-C35) launched the satellites at 9:12 hours on September 26, 2016 from Satish Dhawan Space Centre in Sriharikota. The 377 kg SCATSAT-1 satellite have satellites from Algeria, Canada and USA, as well as two satellites from Indian Universities as its co-passengers. SCATSAT-1 is placed into a 720 km Polar Sun Synchronous Orbit, whereas the two Universities' satellites and the five foreign satellites are placed into a 670 km polar orbit. This PSLV mission is unique in itself as it is for the first time that its payloads are placed into two different orbits. PSLV-C35 launched from the First Launch Pad (FLP) of Satish Dhawan Space Centre and is the 15th flight of PSLV in 'XL' configuration (with the use of solid strap-on motors).

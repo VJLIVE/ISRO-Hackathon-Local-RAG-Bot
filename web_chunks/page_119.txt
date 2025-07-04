@@ -1,0 +1,2 @@
+How can I get near real time data without data ordering?
+If you want near real time data, you can place "standing order" from MOSDAC for Satellite data product/in-situ. Login to MOSDAC site and place standing order. A standing order can be placed for a maximum one month duration. After that you can again place the request. This functionality is available for privileged user only.

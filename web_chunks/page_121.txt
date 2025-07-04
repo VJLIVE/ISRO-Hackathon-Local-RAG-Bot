@@ -1,0 +1,8 @@
+How Ordered and download the satellite data ?
+You are required to be a registered user for ordering the data. Be a registered user by filling up Sing Up form Available on the home page. Login to MOSDAC site with user credentials,  Select  "Satellite data order" . Select the data of your interest.
+Add to cart. submit the request. You will be given a request id no. You will be intimated through the mail about readiness of your data. You can also check status of your request from left menu under "My request tab"
+Your requested data will be uploaded to your SFTP account at
+sftp://ftp.mosdac.gov.in
+. You can download data from
+sftp://ftp.mosdac.gov.in
+using your MOSDAC portal user credentials.

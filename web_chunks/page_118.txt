@@ -1,0 +1,2 @@
+I don't have username and password of MOSDAC. Can I download data?
+Anonymous users (without username and password) can download only open data. In order to download all data from MOSDAC, you need to register on MOSDAC site. There is "SignUp" form available on MOSDAC portal. Pl fill up the form properly and submit. You will be intimated through e-mail about the approval.

@@ -1,10 +1,4 @@
 
-Home
-»
-Missions
-»
-KALPANA-1
-» Payloads
 KALPANA-1 Payloads
 VHRR
 VHRR/2 is a modified version of the VHRR heritage imagers flown on INSAT-2A, -2B, and -2E. The VHRR observes in VIS, water vapor and TIR bands providing a spatial resolution of 2 km in VIS band and 8 km for the rest. VHRR was developed by SAC (Satellite Application Center), Ahmedabad, India. The instrument operates in three scanning modes:

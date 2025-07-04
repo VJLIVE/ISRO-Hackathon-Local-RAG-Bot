@@ -1,10 +1,4 @@
 
-Home
-»
-Missions
-»
-OCEANSAT-2
-» Objectives
 Oceansat-2 Objectives
 The Indian satellite Oceansat-2 is designed to provide service continuity for operational users of the Ocean Colour Monitor (OCM)instrument on Oceansat-1. It will also enhance the potential of applications in other areas. The main objectives of OceanSat-2 are to study surface winds and ocean surface strata, observation of chlorophyll concentrations, monitoring of phytoplankton blooms, study of atmospheric aerosols and suspended sediments in the water.
 The primary mission objectives of Oceansat-2 are:

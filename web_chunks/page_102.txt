@@ -1,27 +1,11 @@
 
-Home
-»
-Missions
-»
-OCEANSAT-3
-» Payloads
 OCEANSAT-3 Payloads
 The scientific payload contains three instruments.
-•
-Ku-band Scatterometer (SCAT-3)
-•
-13-band Ocean Colour Monitor (OCM-3)
-•
-2-band Sea Surface Temperature Monitor (SSTM)
-•
-ARGOS by CNES French Space Agency
-Ocean Colour Monitor (OCM-3)
-:
-OCM-3 is a 13-band multi-spectral camera operating in the Visible and Near IR spectral range. It has 13
-narrow (
-10-20 nm)
-spectral bands. T
-his camera provides an instantaneous geometric field of view of 368 meter and a swath of ~ 15000 km. OCM can be tilted up to + 20 degree along track.
+•Ku-band Scatterometer (SCAT-3)
+•13-band Ocean Colour Monitor (OCM-3)
+•2-band Sea Surface Temperature Monitor (SSTM)
+•ARGOS by CNES French Space Agency
+Ocean Colour Monitor (OCM-3): OCM-3 is a 13-band multi-spectral camera operating in the Visible and Near IR spectral range. It has 13 narrow (10-20 nm) spectral bands. This camera provides an instantaneous geometric field of view of 368 meter and a swath of ~ 15000 km. OCM can be tilted up to + 20 degree along track.
 OCM-3 is planned to be operated in two modes:
 1. Local Area Coverage (LAC) mode at 366 m resolution
 2. Global Area Coverage (GAC) mode at 1.1 km resolution

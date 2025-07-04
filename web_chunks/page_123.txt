@@ -1,0 +1,3 @@
+How many AWS are installed in each state of India?
+Select
+"Catalog --> In-situ --> distribution" from top menu bar, AWS distribution map and no. of AWS installed in each state of India will be displayed.

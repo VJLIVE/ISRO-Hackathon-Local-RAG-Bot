@@ -1,10 +1,4 @@
 
-Home
-»
-Missions
-»
-KALPANA-1
-» Introduction
 KALPANA-1 Introduction
 Kalpana-1 is the first dedicated meteorological satellite launched by Indian Space Research Organisation using Polar Satellite Launch Vehicle on 2002-09-12. This was the first satellite launched by the PSLV into the Geo-stationary orbit. The satellite was originally known as MetSat-1. On February 5, 2003 it was renamed to Kalpana-1 by the Indian Prime Minister Atal Bihari Vajpayee in memory of Kalpana Chawla?a NASA astronaut who perished in the Space Shuttle Columbia disaster.
 The satellite features a Very High Resolution scanning Radiometer (VHRR), for three-band images and a Data Relay Transponder (DRT) payload.

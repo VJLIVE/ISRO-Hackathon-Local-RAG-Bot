@@ -1,10 +1,4 @@
 
-Home
-»
-Missions
-»
-SARAL-AltiKa
-» Payloads
 SARAL-AltiKa Payloads
 SARAL carries the following four payloads:
 Ka-band altimeter with enhanced bandwidth

@@ -1,10 +1,4 @@
 
-Home
-»
-Mission
-»
-INSAT-3DS
-» Objectives
 INSAT-3DS Objectives
 INSAT or the Indian National Satellite System is a series of multipurpose Geo-stationary satellites launched by ISRO to satisfy the telecommunications, broadcasting, meteorology, and search and rescue needs of India. Commissioned in 1983, INSAT is the largest domestic communication system in the Asia Pacific Region. The satellites also incorporate transponder(s) for receiving distress alert signals for search and rescue missions in the South Asian and Indian Ocean Region, as ISRO is a member of the Cospas-Sarsat programme.
 The main objectives for this mission are to provide an operational, environmental and storm warning system to protect life and property. INSAT3DS will

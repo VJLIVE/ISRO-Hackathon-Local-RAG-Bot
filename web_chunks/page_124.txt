@@ -1,0 +1,2 @@
+Which duration data is available for AWS?
+AWS data is available from Jan 2008 till present date.

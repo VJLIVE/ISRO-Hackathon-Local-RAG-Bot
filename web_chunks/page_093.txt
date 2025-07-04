@@ -1,10 +1,4 @@
 
-Home
-»
-Missions
-»
-SARAL-AltiKa
-» SpaceCraft
 SARAL-AltiKa SpaceCraft
 The 450 kg satellite consists of a SSB/ IMS-2 platform and a SARAL/AltiKa specific payload module. The platform provides all housekeeping functions including propulsion, electrical power, command and data handling, telecommunications, and attitude control. The payload module provides mechanical, electrical, thermal, and dynamical support to the SARAL/AltiKa instruments.
 The SARAL satellite is mainly composed of:

@@ -1,0 +1,2 @@
+How to get description about a data product?
+Select "Catalog --> Satellite data" from top menu bar. All data products list of a satellite will be displayed, which contains details of the data products viz: abstract, start date, end date, frequency etc.

@@ -1,10 +1,4 @@
 
-Home
-»
-Missions
-»
-INSAT-3D
-» Payloads
 INSAT-3D Payloads
 The satellite has 3 payloads:
 Meteorological (MET) - IMAGER and SOUNDER

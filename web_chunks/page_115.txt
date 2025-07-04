@@ -1,0 +1,2 @@
+I get error 'Invalid username or password' even though I provide correct credentials.
+Your account is locked for one hour after 3 unsuccessful login attempts. Please try after one hour.

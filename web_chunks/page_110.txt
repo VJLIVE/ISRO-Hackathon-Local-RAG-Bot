@@ -1,9 +1,4 @@
-Home
-»
-Missions
-»
-SCATSAT-1
-» Payloads
+
 SCATSAT-1 Payloads
 The scientific payload contains the Scanning Scatterometer (SCAT) instrument.
 Scanning Scatterometer (SCAT)

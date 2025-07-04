@@ -1,10 +1,4 @@
 
-Home
-»
-Missions
-»
-KALPANA-1
-» SpaceCraft
 KALPANA-1 SpaceCraft
 The MetSat-1 spacecraft was developed by ISAC (ISRO Satellite Center), Bangalore. MetSat has been designed using a new spacecraft bus (I-1000 bus) employing lightweight structural elements like CFRP (Carbon Fibre Reinforced Plastic). A central structural thrust cylinder provides mounting interfaces propellant tanks, pressurant tank, equipment panels, payload, solar array assembly, and with the launch vehicle.
 Structural brackets are provided to mount momentum wheels, reaction wheel, RCS (Reaction Control System) thrusters, earth sensors, sun sensors, LAM (Liquid Apogee Motor), and propulsion components.

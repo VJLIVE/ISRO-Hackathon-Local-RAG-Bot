@@ -1,10 +1,4 @@
 
-Home
-»
-Missions
-»
-SARAL-AltiKa
-» Objectives
 SARAL-AltiKa Objectives
 SARAL/AltiKa main scientific objective is to provide data products to oceanographic research user community in studies leading to improve our knowledge of the ocean meso-scale variability, thanks to the improvement in spatial and vertical resolution brought by SARAL/AltiKa.
 Ocean meso-scale variability is defined as a class of high-energy processes, with wave lengths within a 50km to 500km range, and with periods of a few days to one year. Kinetic energy of mesoscale variability is one order of magnitude more than mean circulation's one. Description of mesoscale is thus essential for understanding ocean dynamics, including mean circulation and its climatic effects (through interactions of meso-scale turbulence with the mean flow).

@@ -1,0 +1,2 @@
+How to change password?
+Login with your user name and password. select 'Change Profile'.  Your Profile page will be displayed. Select 'Password' from the left panel of Profile Page. Provide old and new password and click save. Your password will be changed.

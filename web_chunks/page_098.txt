@@ -1,10 +1,4 @@
 
-Home
-»
-Missions
-»
-OCEANSAT-2
-» Payloads
 Oceansat-2 Payloads
 The scientific payload contains three instruments. Two are Indian and one is from the Italian Space Agency.
 Ocean Colour Monitor (OCM)

@@ -1,10 +1,4 @@
 
-Home
-»
-Missions
-»
-SARAL-AltiKa
-» Introduction
 SARAL-AltiKa Introduction
 SARAL mission results from the common interest of both CNES and ISRO in studying ocean from space using altimetry system and in promoting maximum use of the ARGOS Data Collecting System. Radar altimetry by satellite is a technique used in oceanography to measure, globally over the oceans, the sea level needed to understand ocean circulation and its variability. The importance of altimetry data to better understand the ocean circulation and its impact on the climate of the Earth led to the TOPEX/Poseidon and Jason series of satellites complemented by ERS1-2, GFO and ENVISAT. With the launch of these missions began a data collection that must continue well into the century in order to monitor the inter-annual evolution and separate transient phenomena from secular variations.
 SARAL/AltiKa mission belongs to the global altimetry system and then participates to the precise and accurate observations of ocean circulation and sea surface elevation for its life time.

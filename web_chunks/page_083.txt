@@ -1,9 +1,3 @@
 
-Home
-»
-Missions
-»
-INSAT-3A
-» Introduction
 INSAT-3A Introduction
 INSAT-3A, a multipurpose satellite built by ISRO was launched by Ariane in April 2003. It is located at 93.5 degree East longitude. It is third satellite in INSAT-3 series after INSAT-3B & INSAT-3C. It provides communication, weather and search & rescue services.

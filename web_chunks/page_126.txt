@@ -1,0 +1,4 @@
+What datasets are available on MOSDAC?
+Select "Catalog --> Satellite data" from top menu bar. All data products list of a satellite will be displayed. You can change the satellite to view data products of selected satellite.
+Select
+"Catalog --> In-situ --> distribution" from top menu bar. All In-situ list will be displayed for which MOSDAC has datasets.

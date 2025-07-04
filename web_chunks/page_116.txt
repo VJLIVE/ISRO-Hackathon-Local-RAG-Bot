@@ -1,0 +1,2 @@
+How to know forgot password?
+Click Forgot Password link on MOSDAC Login Page. Enter username or email. If valid username/email is entered, user will get an email containing 'Reset Password Hyperlink'. please copy 'Reset Password Hyperlink' and paste it in new browser window/tab and open the link and follow the procedure to reset password.

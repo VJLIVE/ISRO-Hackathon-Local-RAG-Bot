@@ -1,10 +1,4 @@
 
-Home
-»
-Missions
-»
-INSAT-3A
-» Payloads
 INSAT-3A Payloads
 1 Communication Payload
 2 Normal C-band transponders (9 channels provide expanded coverage from Middle East to South East Asia with an EIRP of 38 dBW, 3 channels provide India coverage with an EIRP of 36 dBW and 6 Extended C-band transponders provide India coverage with an EIRP of 36 dBW).

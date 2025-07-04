@@ -1,0 +1,2 @@
+I have received a 'reset password mail' But when I click the link, I get error message.
+Please copy the 'Reset Password Hyperlink' sent on your registered  email id and past it in a new browser window/tab and open the link to reset password.
