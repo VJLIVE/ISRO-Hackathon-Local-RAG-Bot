@@ -1,0 +1,48 @@
+from fastapi import FastAPI
+from pydantic import BaseModel
+from query_index_ollama import retrieve, generate_answer, choose_model
+import uvicorn
+from fastapi.middleware.cors import CORSMiddleware
+from contextlib import asynccontextmanager
+
+ollama_model = None  # global
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    global ollama_model
+    print("🚀 Starting up…")
+    ollama_model = choose_model()
+    yield
+    print("🛑 Shutting down…")
+
+app = FastAPI(lifespan=lifespan)
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+class Query(BaseModel):
+    question: str
+
+@app.post("/query")
+async def query(data: Query):
+    question = data.question
+    results = retrieve(question, k=5, max_score=1.0)
+
+    if not results:
+        return {"answer": "⚠️ No good match found in the knowledge base."}
+
+    context = "\n\n".join(
+        [f"Source: {r['source']}\nContent: {r['content'][:1000]}" for r in results]
+    )
+
+    answer = generate_answer(question, context, ollama_model)
+
+    return {"answer": answer}
+
+
+if __name__ == "__main__":
+    uvicorn.run("app:app", host="0.0.0.0", port=8000, reload=True)
