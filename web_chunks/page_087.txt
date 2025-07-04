@@ -1,0 +1,25 @@
+
+Home
+»
+Missions
+»
+MeghaTropiques
+» Introduction
+Megha Tropiques Introduction
+The tropical belt receives more energy from Sun than it radiates back into space. The excess energy is transported to temperate regions by the motion of atmosphere and oceans. Any variation in the energy budget of the tropics will therefore effect the whole planet. The energy exchanges are strongly linked to the water cycle and particularly to the tropical connective systems: huge amount of latent heat are released in the tropical rains, while high humidity and thick clouds strongly affect the radiation budget. Many interactions between radiation, water vapour, clouds, precipitation and atmospheric motion determine the life cycle of convective cloud systems, and the occurrence of extreme events like tropical cyclones, monsoons, flood and droughts. Due to dynamic nature of above parameters, the frequency of observation from low orbiting sun-synchronous orbits is inadequate. Only geo-stationary satellites allow continuous monitoring of the Tropics, but their Vis-IR sensors give limited information on the cloud surface properties or horizontal distribution of water vapour.
+Low orbiting (~800 km) satellites with low inclinations provide high repetitivity. An inclination at 20 degrees provides 6 observations of each point on the Inter-Tropical Convergence Zone (ITCZ). The most energetic tropical systems, such as the cloud clusters of ITCZ, the Monsoon systems and the Tropical cyclones, extend over hundreds of kilometers. Hence, a ground resolution of about 10 km is adequate for these observations.
+In order to meet most of the above requirements, Megha Tropiques has been envisaged which is low earth orbit (LEO) mission. Megha in Sanskrit is ‘cloud’ and Tropiques in French is ‘tropics’. Megha-tropiques Mission is an ISRO-CNES (Indo-French) collaborative programme intended for studying the water cycle and energy exchanges in the tropics using a satellite platform.
+Megha-Tropiques is a one-tonne satellite which will be operated as part of a joint programme between the Indian Space Research Organisation (ISRO) and France′s Centre National d′Etudes Spaciales (CNES). The spacecraft was constructed by ISRO, based around the IRS bus developed for earlier Indian satellites, and carries four instruments which will be used to study the Earth′s atmosphere.
+ISRO is responsible of the system and the satellite. ISRO provides the launcher, the paltform, part of the MADRAS instrument, the GPS receiver and the mission operation center, which will process all the products until level 1. ISRO also performs the integration and test of the MADRAS instrument, of the complete payload and of the satellite.
+CNES provides a support for the system activities, the hyperfrequency part of the MADRAS instrument (MARFEQ) developped under contract by ASTRIUM, and the SAPHIR and SCARAB instruments developped by CNES with a support of the LMD, LERMA and CETP laboratories. CNES also provides the data processing algorithms for the SAPHIR and SCARAB instruments and participates to the development of the MADRAS data processing algorithms. A data and instruments performances expertise center will be created in France. For the French part, the level 2 and upper data processing will be realised in the thematic center Icare.
+Megha Tropiques Ground Segment
+The ground segment is divided into:
+1. A satellite operation ground segment providedby India:
+an S-band telemetry and command station
+a satellite monitoring and control center
+2. A science ground segment including Indian and French parts:
+an S-band mission station for payload telemetry located in India
+a mission operation center located in India
+a level-2 processing center in India such as MOSDAC
+a level-2 processing center named ICARE in France
+The Megha-Tropiques satellite is launched by an Indian PSLV launcher in 2011, on a 867 km orbit with an inclination of 20°.

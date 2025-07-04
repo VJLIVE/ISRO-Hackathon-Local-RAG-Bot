@@ -1,0 +1,10 @@
+
+Home
+»
+Missions
+»
+INSAT-3DR
+» SpaceCraft
+INSAT-3DR SpaceCraft
+The INSAT-3DR is a momentum-biased 3-axis stabilized spacecraft using star trackers for precise pointing control. The spacecraft has a launch mass of 2211 kg with a dry mass of 907 kg. It is in Geostationary orbit, altitude of ~35, 786 km, location at 74° East. The three-axis stabilized geostationary satellite carries two meteorological instruments: a six channel Imager and an IR Sounder. Along with the channels in Visible, Middle Infrared, Water Vapor and Thermal Infrared bands, the Imager includes a SWIR channel for wider applications. The Sounder will have eighteen narrow spectral channels in three IR bands in addition to a channel in visible band. It also has a Data Relay Transponder and Satellite based Search & Rescue Payload. Several innovative technologies like on-the-fly correction of scan mirror pointing errors, biannual yaw rotation of the spacecraft, micro-stepping SADA, star sensors and integrated bus management unit have been incorporated to meet the stringent payload requirements like pointing accuracies, thermal management of IR detectors and concurrent operation of both instruments.
+A passive radiant cooler is used to cool the infrared detectors of imager and sounder instruments. The temperature of the detectors is maintained at 95 K (BOL) and 100 K (EOL). The passive cooler also maintains the sounder filter wheel temperature at 213 K.

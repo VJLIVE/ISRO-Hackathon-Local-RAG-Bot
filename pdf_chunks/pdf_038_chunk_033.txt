@@ -1,0 +1,1 @@
+#13: Blank, #14 to #15: Ice flag H5T_C_S1 358 dimension_label Number_of_Rows_10km, Number_of_Columns_10km H5T_C_S1 82 35 geolocation_label Latitude_Cells_10km, Longitude_Cells_10km H5T_C_S1 88 CLASS IMAGE H5T_C_S1 6 IMAGE_SUBCLASS IMAGE_GRAYSCALE H5T_C_S1 16 IMAGE_MINMAXRANGE [0,8000] H5T_STD_U16LE 4 36

@@ -1,0 +1,1 @@
+Scofield, 2002, The role of orographic and parallaxcorrections on real time high resolution satellite rainfall estimation. Int. J. Remote Sens., 23, 221-230. Vicente, G A, R A Scofield, and W P Menzel, 1998, The Operational GOES Infrared Rainfall Estimation Technique, Bul. of American Met. Soc., 79 (9), 1883.
