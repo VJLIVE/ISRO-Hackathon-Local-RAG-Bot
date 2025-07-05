@@ -4,7 +4,6 @@ import numpy as np
 import faiss
 from sentence_transformers import SentenceTransformer
 
-# 🔷 Step 1: load your chunks
 def load_chunks(folder):
     docs = []
     for fname in os.listdir(folder):
@@ -21,7 +20,6 @@ all_docs += load_chunks("web_chunks")
 all_docs += load_chunks("pdf_chunks")
 print(f"✅ Loaded {len(all_docs)} documents.")
 
-# 🔷 Step 2: generate embeddings
 print("🤖 Loading embedding model...")
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
@@ -32,13 +30,11 @@ print("🔷 Generating embeddings...")
 embeddings = model.encode(texts, show_progress_bar=True)
 embeddings = np.array(embeddings).astype("float32")
 
-# 🔷 Step 3: build FAISS index
 print("📦 Building FAISS index...")
 dim = embeddings.shape[1]
 index = faiss.IndexFlatL2(dim)
 index.add(embeddings)
 
-# 🔷 Step 4: save index & metadata
 os.makedirs("vector_store", exist_ok=True)
 
 faiss.write_index(index, "vector_store/index.faiss")

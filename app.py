@@ -6,7 +6,7 @@ import uvicorn
 from fastapi.middleware.cors import CORSMiddleware
 from contextlib import asynccontextmanager
 
-ollama_model = None  # global
+ollama_model = None
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -59,7 +59,6 @@ async def query_geospatial(data: GeoQuery):
     if not results:
         return {"answer": f"⚠️ No results found near {location} within {radius} km."}
 
-    # use the retrieved context to generate an answer
     context = "\n\n".join(
         [f"Source: {entry['source']}\nContent: {entry['content'][:1000]}" for entry, loc, dist in results[:5]]
     )
